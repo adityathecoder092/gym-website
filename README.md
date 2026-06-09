@@ -13,3 +13,5 @@ Responsive Gym Website created using HTML and CSS.
 - Gym Information
 - Contact Form
 
+## Project Purpose
+This Project was created to practice frontend web development using HTML and CSS.
