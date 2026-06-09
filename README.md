@@ -1,6 +1,9 @@
 # Gym Website
 Responsive Gym Website created using HTML and CSS.
 
+## Live Demo
+https://fitnessakhada-gym.netlify.app
+
 ## Technologies Used
 -  HTML5
 -  CSS3
